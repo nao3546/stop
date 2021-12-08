@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "id": "test",
+      "store": "テスト",
+      "name": "竹原",
+      "tel": "0120-123-456",
+      "mail": "nao3546@gmail.com",
+      "address": "北海道",
+      "BG_color": "gray.50",
+      "Window_color": "bg-white"
+    }
+  ]
+}
